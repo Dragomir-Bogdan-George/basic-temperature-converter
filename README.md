@@ -6,3 +6,6 @@ The user can see the temperatures that were selected and the final calculation w
 will press the button to convert.
 
 ![](Screenshots-design/interface-design.png)
+![](Screenshots-design/from-celsius.png)
+![](Screenshots-design/to-kelvin.png)
+![](Screenshots-design/convert-design.png)
