@@ -5,4 +5,4 @@ The user can use the application to convert between the temperatures available i
 The user can see the temperatures that were selected and the final calculation will be shown after the user
 will press the button to convert.
 
-![](Screenshots-design/interface-design.png)
+![]("Screenshots-design/interface-design.png")
